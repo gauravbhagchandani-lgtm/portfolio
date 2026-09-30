@@ -1,4 +1,4 @@
-# Gaurav Bhagchandani — Placement Portfolio v3
+# Gaurav Bhagchandani — Placement Portfolio 
 
 A clean, responsive, high-performance static placement portfolio built with HTML5, CSS3, and JavaScript.
 
